@@ -1,0 +1,24 @@
+[
+  {
+
+    "name": "John Doe",
+    "cohort": 1,
+    "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=John+Doe"
+  },
+  
+  {
+    "name": "Jane Doe",
+    "cohort": 1,
+    "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Jane+Doe"
+  },
+  {
+    "name": "Paul Tan",
+    "cohort": 1,
+    "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Paul+Tan"
+  },
+  {
+    "name": "Pauline Tan",
+    "cohort": 1,
+    "photo": "https://api.dicebear.com/9.x/avataaars-neutral/svg?seed=Pauline+Tan"
+  }
+]
